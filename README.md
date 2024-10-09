@@ -9,14 +9,14 @@ la Galia y controlaran algunos territorios en Hispania.
 
 ## ÍNDICE
 
-1. Época
+1. [Época](epoca.md)
 2. Arquitectura
 3. Obras
 
 ### REFERENCIA
 [Nathional Geographic España](https://historia.nationalgeographic.com.es/temas/visigodos)
 
-[Época](1. Época)
+##Época.md
 
 La Hispania visigoda es la denominación del período histórico que abarca el
 asentamiento del pueblo visigodo en la península ibérica, entre mediados del siglo V
